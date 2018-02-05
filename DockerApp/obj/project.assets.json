@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\z_git\\CSharp7-and-.NET-Core-2.0-Blueprints\\DockerApp\\DockerApp\\DockerApp.csproj",
+      "projectUniqueName": "C:\\z_myGit\\DockerApp\\DockerApp\\DockerApp.csproj",
       "projectName": "DockerApp",
-      "projectPath": "C:\\z_git\\CSharp7-and-.NET-Core-2.0-Blueprints\\DockerApp\\DockerApp\\DockerApp.csproj",
+      "projectPath": "C:\\z_myGit\\DockerApp\\DockerApp\\DockerApp.csproj",
       "packagesPath": "C:\\Users\\Dirk Strauss\\.nuget\\packages\\",
-      "outputPath": "C:\\z_git\\CSharp7-and-.NET-Core-2.0-Blueprints\\DockerApp\\DockerApp\\obj\\",
+      "outputPath": "C:\\z_myGit\\DockerApp\\DockerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
